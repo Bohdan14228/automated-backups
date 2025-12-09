@@ -1,4 +1,4 @@
-Project[https://roadmap.sh/projects/automated-backups](https://roadmap.sh/projects/automated-backups)
+Project [https://roadmap.sh/projects/automated-backups](https://roadmap.sh/projects/automated-backups)
 
 1. Install AWS CLI
    
